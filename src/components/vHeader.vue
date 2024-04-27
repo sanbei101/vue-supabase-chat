@@ -11,7 +11,7 @@ const store = useStore()
     id="header"
   >
     <div class="flex items-center justify-between w-full">
-      <h1 class="font-medium animate-charcter">Realtime Chat</h1>
+      <h1 class="font-medium animate-charcter">莘莘酒语交流平台</h1>
 
       <div class="flex items-center gap-3">
         <span

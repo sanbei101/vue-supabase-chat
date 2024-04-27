@@ -8,8 +8,7 @@ import githubIcon from '@/components/github-icon.vue'
       href="https://github.com/LevinIgor/vue-supabase-chat"
       target="_blank"
     >
-      <github-icon />
-      <span>View source code on Github</span>
+      <span><a href="https://wine.cau-ghr.tech">莘莘酒语</a></span>
     </a>
   </footer>
 </template>
